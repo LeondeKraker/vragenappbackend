@@ -1,0 +1,14 @@
+#Changelog
+Alle veranderingen worden gedocumenteerd in dit bestand
+
+##[0.1] - 12/11/2018
+###toegevoegd
+- Basis plugin met verschillende admin pagina's opgezet
+
+##[0.2] - 13/11/2018
+###toegevoegd
+- Create functionaliteit toegevoegd aan vragenpagina
+
+##[0.3] - 14/11/2018
+###toegevoegd
+- Read, update en delete functionaliteit toegevoegd aan de vragenpagina
